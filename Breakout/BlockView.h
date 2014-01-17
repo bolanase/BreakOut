@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BlockView.h
 //  Breakout
 //
 //  Created by Anthony  Severino on 1/16/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController 
-
-
+@interface BlockView : UIView
 
 @end
